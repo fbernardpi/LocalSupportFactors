@@ -14,12 +14,7 @@ Structured Matrix Factorisation". CVPR, 2016.
 For feedback, suggestions or other comments please contact Florian Bernard 
 per email at f.bernardpi[at]gmail[dot]com .
 
-# LICENSE 
-This work is licensed under a Creative Commons Attribution-NonCommercial-
-ShareAlike 4.0 International License 
-( http://creativecommons.org/licenses/by-nc-sa/4.0/ ). This does not affect 
-third-party code, which remains under the original license. The FactorTVL1L2 
-code is provided with kind permission by Ben Haeffele.
+The FactorTVL1L2 code is provided with kind permission by Ben Haeffele.
 
 # USAGE 
 The file demo.m contains a simple toy example that shows how to use the 
